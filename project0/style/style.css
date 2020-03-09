@@ -1,0 +1,50 @@
+.head {
+  color: green;
+}
+
+.pull {
+  background-color: black;
+}
+
+.rock {
+  font-weight: bolder;
+  color: greenyellow;
+}
+
+body {
+  background-color: #7fe929;
+}
+
+.container {
+  background-color: goldenrod;
+}
+
+nav > a:hover {
+  background-color: lawngreen;
+}
+
+.row {
+  background-color: cyan;
+}
+
+.row .col {
+  color: green;
+}
+
+.table {
+  background-color: cyan;
+}
+
+.footer {
+  color: indigo;
+}
+
+button > a:hover {
+  background-color: indigo;
+}
+
+dl {
+  font-size: 20px;
+  color: teal;
+}
+/*# sourceMappingURL=style.css.map */
